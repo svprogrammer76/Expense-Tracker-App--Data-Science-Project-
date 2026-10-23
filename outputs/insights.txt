@@ -1,0 +1,5 @@
+- Total recorded spend: 370.00 across 2 transactions.
+- Largest category: Food (250.00, 67.6% of spend).
+- Highest-spend month: 2026-01 (370.00).
+- Average monthly spend: 370.00; comparison budget: 1,000.00.
+- No months exceeded the selected budget.

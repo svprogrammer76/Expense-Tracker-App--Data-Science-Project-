@@ -1,0 +1,793 @@
+date,category,amount,payment_method,description
+2025-10-20,Transport,200.68,UPI,Transport purchase
+2025-10-20,Entertainment,710.96,UPI,Entertainment purchase
+2025-10-21,Food,682.42,Card,Food purchase
+2025-10-21,Food,241.39,Card,Food purchase
+2025-10-21,Transport,591.76,UPI,Transport purchase
+2025-10-21,Education,1962.63,Cash,Education purchase
+2025-10-22,Food,259.08,UPI,Food purchase
+2025-10-24,Shopping,1521.39,Card,Shopping purchase
+2025-10-25,Food,416.92,Bank Transfer,Food purchase
+2025-10-25,Healthcare,797.32,Cash,Healthcare purchase
+2025-10-26,Utilities,501.72,Card,Utilities purchase
+2025-10-26,Shopping,1985.78,UPI,Shopping purchase
+2025-10-26,Education,698.63,Card,Education purchase
+2025-10-27,Utilities,1579.58,Bank Transfer,Utilities purchase
+2025-10-27,Food,604.49,Cash,Food purchase
+2025-10-27,Entertainment,977.03,Bank Transfer,Entertainment purchase
+2025-10-28,Shopping,1081.17,UPI,Shopping purchase
+2025-10-28,Rent,22011.94,UPI,Rent purchase
+2025-10-30,Food,275.07,UPI,Food purchase
+2025-10-30,Education,2406.1,Card,Education purchase
+2025-10-31,Utilities,1950.81,Bank Transfer,Utilities purchase
+2025-10-31,Transport,384.58,UPI,Transport purchase
+2025-11-01,Rent,14000.0,Bank Transfer,Monthly rent
+2025-11-01,Food,225.99,Card,Food purchase
+2025-11-01,Transport,715.91,Card,Transport purchase
+2025-11-03,Entertainment,646.81,UPI,Entertainment purchase
+2025-11-03,Transport,547.93,Cash,Transport purchase
+2025-11-04,Entertainment,913.84,Bank Transfer,Entertainment purchase
+2025-11-04,Shopping,1495.3,Card,Shopping purchase
+2025-11-04,Food,216.97,Cash,Food purchase
+2025-11-06,Utilities,643.39,Card,Utilities purchase
+2025-11-06,Food,362.5,UPI,Food purchase
+2025-11-07,Entertainment,543.18,Cash,Entertainment purchase
+2025-11-07,Food,279.68,Cash,Food purchase
+2025-11-08,Rent,6448.41,Cash,Rent purchase
+2025-11-09,Entertainment,1025.65,Card,Entertainment purchase
+2025-11-10,Shopping,1167.59,UPI,Shopping purchase
+2025-11-11,Entertainment,587.9,Card,Entertainment purchase
+2025-11-11,Transport,212.01,Cash,Transport purchase
+2025-11-12,Food,589.52,Bank Transfer,Food purchase
+2025-11-12,Shopping,870.54,Cash,Shopping purchase
+2025-11-12,Food,381.5,Cash,Food purchase
+2025-11-14,Entertainment,798.33,UPI,Entertainment purchase
+2025-11-15,Healthcare,1101.14,Card,Healthcare purchase
+2025-11-16,Transport,727.0,Card,Transport purchase
+2025-11-17,Entertainment,619.99,Bank Transfer,Entertainment purchase
+2025-11-17,Entertainment,824.69,Bank Transfer,Entertainment purchase
+2025-11-18,Food,649.14,UPI,Food purchase
+2025-11-18,Rent,25643.94,UPI,Rent purchase
+2025-11-18,Food,203.77,Bank Transfer,Food purchase
+2025-11-18,Shopping,620.37,UPI,Shopping purchase
+2025-11-19,Entertainment,420.13,UPI,Entertainment purchase
+2025-11-19,Entertainment,1597.35,Cash,Entertainment purchase
+2025-11-20,Transport,136.8,Bank Transfer,Transport purchase
+2025-11-20,Healthcare,534.74,Card,Healthcare purchase
+2025-11-20,Shopping,2284.57,Bank Transfer,Shopping purchase
+2025-11-20,Shopping,1478.21,UPI,Shopping purchase
+2025-11-20,Education,788.04,Bank Transfer,Education purchase
+2025-11-21,Food,214.22,Card,Food purchase
+2025-11-21,Healthcare,667.52,UPI,Healthcare purchase
+2025-11-21,Food,1040.95,Card,Food purchase
+2025-11-22,Food,340.99,UPI,Food purchase
+2025-11-22,Rent,10786.93,UPI,Rent purchase
+2025-11-22,Food,417.9,Card,Food purchase
+2025-11-22,Transport,276.76,UPI,Transport purchase
+2025-11-22,Shopping,1599.57,UPI,Shopping purchase
+2025-11-22,Rent,17082.82,Cash,Rent purchase
+2025-11-23,Rent,13704.55,Bank Transfer,Rent purchase
+2025-11-23,Food,419.14,Bank Transfer,Food purchase
+2025-11-24,Rent,7157.55,Card,Rent purchase
+2025-11-25,Utilities,2235.49,Card,Utilities purchase
+2025-11-25,Food,303.08,Card,Food purchase
+2025-11-26,Education,845.46,Card,Education purchase
+2025-11-26,Food,283.66,Bank Transfer,Food purchase
+2025-11-26,Shopping,1146.62,UPI,Shopping purchase
+2025-11-27,Food,241.81,Cash,Food purchase
+2025-11-27,Transport,897.69,Cash,Transport purchase
+2025-11-27,Shopping,1514.65,UPI,Shopping purchase
+2025-11-27,Food,332.3,Card,Food purchase
+2025-11-29,Food,369.91,Cash,Food purchase
+2025-11-29,Transport,515.49,Cash,Transport purchase
+2025-11-30,Food,163.66,UPI,Food purchase
+2025-11-30,Entertainment,325.06,UPI,Entertainment purchase
+2025-11-30,Shopping,2251.85,UPI,Shopping purchase
+2025-12-01,Rent,14000.0,Bank Transfer,Monthly rent
+2025-12-01,Food,977.2,UPI,Food purchase
+2025-12-01,Utilities,1404.98,Bank Transfer,Utilities purchase
+2025-12-01,Education,1980.44,UPI,Education purchase
+2025-12-01,Transport,268.64,Card,Transport purchase
+2025-12-01,Rent,7795.27,Card,Rent purchase
+2025-12-02,Food,226.02,Card,Food purchase
+2025-12-02,Entertainment,276.58,UPI,Entertainment purchase
+2025-12-03,Food,149.38,Card,Food purchase
+2025-12-04,Utilities,637.37,Cash,Utilities purchase
+2025-12-04,Rent,15188.16,Card,Rent purchase
+2025-12-04,Entertainment,1111.16,Bank Transfer,Entertainment purchase
+2025-12-04,Utilities,2755.31,Bank Transfer,Utilities purchase
+2025-12-05,Shopping,3253.0,Bank Transfer,Shopping purchase
+2025-12-05,Transport,295.03,Bank Transfer,Transport purchase
+2025-12-05,Shopping,1729.43,Cash,Shopping purchase
+2025-12-06,Shopping,1314.39,Card,Shopping purchase
+2025-12-06,Rent,14199.13,UPI,Rent purchase
+2025-12-06,Shopping,1088.12,Card,Shopping purchase
+2025-12-07,Food,292.17,Cash,Food purchase
+2025-12-08,Shopping,1281.69,Cash,Shopping purchase
+2025-12-08,Food,401.97,Cash,Food purchase
+2025-12-09,Food,397.64,Bank Transfer,Food purchase
+2025-12-09,Entertainment,1449.74,UPI,Entertainment purchase
+2025-12-09,Rent,18698.94,Bank Transfer,Rent purchase
+2025-12-09,Shopping,1062.05,Card,Shopping purchase
+2025-12-09,Entertainment,691.88,UPI,Entertainment purchase
+2025-12-09,Utilities,838.45,Cash,Utilities purchase
+2025-12-09,Utilities,1883.84,Cash,Utilities purchase
+2025-12-09,Utilities,1146.64,UPI,Utilities purchase
+2025-12-10,Food,188.72,Card,Food purchase
+2025-12-10,Entertainment,451.01,Card,Entertainment purchase
+2025-12-10,Food,478.9,Card,Food purchase
+2025-12-11,Entertainment,329.92,Card,Entertainment purchase
+2025-12-12,Rent,7196.29,Card,Rent purchase
+2025-12-12,Healthcare,1022.93,Card,Healthcare purchase
+2025-12-13,Food,361.82,Card,Food purchase
+2025-12-13,Entertainment,1689.97,Card,Entertainment purchase
+2025-12-13,Transport,334.76,UPI,Transport purchase
+2025-12-14,Transport,321.78,Cash,Transport purchase
+2025-12-14,Entertainment,639.48,Bank Transfer,Entertainment purchase
+2025-12-14,Shopping,2595.06,Cash,Shopping purchase
+2025-12-15,Shopping,1781.59,Bank Transfer,Shopping purchase
+2025-12-15,Shopping,1679.84,UPI,Shopping purchase
+2025-12-16,Entertainment,630.69,Card,Entertainment purchase
+2025-12-16,Food,134.19,Card,Food purchase
+2025-12-17,Food,470.84,Cash,Food purchase
+2025-12-18,Entertainment,501.15,Bank Transfer,Entertainment purchase
+2025-12-18,Utilities,2499.48,Cash,Utilities purchase
+2025-12-18,Entertainment,672.06,UPI,Entertainment purchase
+2025-12-18,Shopping,1558.36,Card,Shopping purchase
+2025-12-18,Rent,16402.44,Bank Transfer,Rent purchase
+2025-12-18,Entertainment,485.92,UPI,Entertainment purchase
+2025-12-19,Entertainment,883.06,Card,Entertainment purchase
+2025-12-19,Transport,500.02,Cash,Transport purchase
+2025-12-19,Utilities,404.46,Cash,Utilities purchase
+2025-12-20,Transport,397.45,Bank Transfer,Transport purchase
+2025-12-20,Entertainment,1711.27,Card,Entertainment purchase
+2025-12-21,Healthcare,1072.09,Card,Healthcare purchase
+2025-12-21,Shopping,3079.14,UPI,Shopping purchase
+2025-12-22,Shopping,1233.15,Card,Shopping purchase
+2025-12-22,Food,281.59,Cash,Food purchase
+2025-12-22,Shopping,657.68,Card,Shopping purchase
+2025-12-22,Food,484.0,Bank Transfer,Food purchase
+2025-12-23,Entertainment,1174.9,Cash,Entertainment purchase
+2025-12-23,Shopping,690.04,Cash,Shopping purchase
+2025-12-24,Food,320.21,Cash,Food purchase
+2025-12-24,Rent,14791.58,Card,Rent purchase
+2025-12-24,Food,1000.38,Card,Food purchase
+2025-12-24,Rent,25688.32,Card,Rent purchase
+2025-12-24,Shopping,1029.92,UPI,Shopping purchase
+2025-12-26,Food,582.73,Card,Food purchase
+2025-12-27,Food,231.53,Card,Food purchase
+2025-12-28,Entertainment,843.49,Card,Entertainment purchase
+2025-12-29,Transport,522.05,Card,Transport purchase
+2025-12-29,Food,165.28,Cash,Food purchase
+2025-12-29,Rent,22500.84,UPI,Rent purchase
+2025-12-31,Shopping,1093.73,Cash,Shopping purchase
+2025-12-31,Entertainment,652.68,Card,Entertainment purchase
+2025-12-31,Rent,5356.52,Cash,Rent purchase
+2026-01-01,Education,940.74,Bank Transfer,Education purchase
+2026-01-01,Shopping,2724.83,Cash,Shopping purchase
+2026-01-01,Rent,13910.14,Card,Rent purchase
+2026-01-01,Food,298.05,Bank Transfer,Food purchase
+2026-01-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-01-03,Rent,11717.5,Card,Rent purchase
+2026-01-05,Shopping,1618.04,Cash,Shopping purchase
+2026-01-08,Transport,525.42,Card,Transport purchase
+2026-01-10,Food,211.69,UPI,Food purchase
+2026-01-10,Education,948.92,Card,Education purchase
+2026-01-10,Healthcare,523.73,Card,Healthcare purchase
+2026-01-11,Food,379.87,UPI,Food purchase
+2026-01-11,Transport,401.68,Bank Transfer,Transport purchase
+2026-01-12,Food,331.0,Cash,Food purchase
+2026-01-12,Entertainment,485.99,Bank Transfer,Entertainment purchase
+2026-01-12,Food,112.89,Card,Food purchase
+2026-01-13,Education,966.24,Cash,Education purchase
+2026-01-13,Utilities,1746.36,Card,Utilities purchase
+2026-01-13,Education,1039.4,Bank Transfer,Education purchase
+2026-01-13,Entertainment,771.88,UPI,Entertainment purchase
+2026-01-13,Utilities,1501.61,Card,Utilities purchase
+2026-01-14,Utilities,844.95,Card,Utilities purchase
+2026-01-14,Healthcare,573.03,Card,Healthcare purchase
+2026-01-14,Entertainment,692.56,UPI,Entertainment purchase
+2026-01-15,Entertainment,1314.03,Cash,Entertainment purchase
+2026-01-16,Utilities,750.36,Cash,Utilities purchase
+2026-01-16,Transport,388.42,Cash,Transport purchase
+2026-01-17,Food,407.4,Bank Transfer,Food purchase
+2026-01-18,Education,4860.59,Card,Education purchase
+2026-01-18,Utilities,868.04,Card,Utilities purchase
+2026-01-18,Entertainment,482.66,UPI,Entertainment purchase
+2026-01-19,Healthcare,807.3,Cash,Healthcare purchase
+2026-01-20,Shopping,3628.48,Bank Transfer,Shopping purchase
+2026-01-22,Utilities,670.16,Cash,Utilities purchase
+2026-01-23,Education,1481.47,UPI,Education purchase
+2026-01-23,Shopping,613.37,Bank Transfer,Shopping purchase
+2026-01-24,Transport,406.11,Card,Transport purchase
+2026-01-24,Food,206.61,Cash,Food purchase
+2026-01-24,Transport,334.34,Cash,Transport purchase
+2026-01-25,Food,100.44,Card,Food purchase
+2026-01-26,Entertainment,912.3,UPI,Entertainment purchase
+2026-01-26,Healthcare,854.06,Cash,Healthcare purchase
+2026-01-26,Shopping,3812.49,Cash,Shopping purchase
+2026-01-27,Food,617.03,Bank Transfer,Food purchase
+2026-01-27,Healthcare,903.58,Bank Transfer,Healthcare purchase
+2026-01-28,Shopping,2642.02,Cash,Shopping purchase
+2026-01-28,Rent,10497.92,UPI,Rent purchase
+2026-01-28,Food,302.54,Cash,Food purchase
+2026-01-29,Entertainment,1449.5,Bank Transfer,Entertainment purchase
+2026-01-29,Entertainment,297.77,UPI,Entertainment purchase
+2026-01-29,Utilities,1240.51,UPI,Utilities purchase
+2026-01-29,Healthcare,1441.59,Bank Transfer,Healthcare purchase
+2026-01-30,Food,257.41,UPI,Food purchase
+2026-01-31,Utilities,784.93,UPI,Utilities purchase
+2026-01-31,Utilities,1101.06,Card,Utilities purchase
+2026-01-31,Healthcare,593.28,Card,Healthcare purchase
+2026-02-01,Healthcare,649.97,UPI,Healthcare purchase
+2026-02-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-02-01,Rent,18371.99,Card,Rent purchase
+2026-02-01,Transport,389.51,UPI,Transport purchase
+2026-02-02,Food,383.12,Card,Food purchase
+2026-02-02,Food,295.95,UPI,Food purchase
+2026-02-03,Transport,340.54,UPI,Transport purchase
+2026-02-03,Education,1186.69,Bank Transfer,Education purchase
+2026-02-04,Transport,465.83,UPI,Transport purchase
+2026-02-04,Utilities,832.01,Bank Transfer,Utilities purchase
+2026-02-05,Entertainment,1066.94,Bank Transfer,Entertainment purchase
+2026-02-05,Shopping,2136.73,Cash,Shopping purchase
+2026-02-06,Utilities,600.11,Bank Transfer,Utilities purchase
+2026-02-06,Healthcare,654.17,Bank Transfer,Healthcare purchase
+2026-02-06,Transport,212.53,Bank Transfer,Transport purchase
+2026-02-07,Transport,598.34,Bank Transfer,Transport purchase
+2026-02-07,Shopping,1416.38,Card,Shopping purchase
+2026-02-08,Utilities,1335.95,Cash,Utilities purchase
+2026-02-09,Education,1276.42,Card,Education purchase
+2026-02-09,Food,172.58,Card,Food purchase
+2026-02-09,Shopping,914.74,Card,Shopping purchase
+2026-02-10,Food,256.99,Card,Food purchase
+2026-02-10,Shopping,2972.71,Bank Transfer,Shopping purchase
+2026-02-10,Healthcare,1593.06,Cash,Healthcare purchase
+2026-02-11,Rent,27706.54,Bank Transfer,Rent purchase
+2026-02-11,Education,889.15,Bank Transfer,Education purchase
+2026-02-11,Shopping,820.76,Card,Shopping purchase
+2026-02-12,Food,549.13,Card,Food purchase
+2026-02-12,Rent,15769.41,Bank Transfer,Rent purchase
+2026-02-12,Education,1721.48,Cash,Education purchase
+2026-02-13,Transport,644.76,Cash,Transport purchase
+2026-02-13,Education,2426.79,Bank Transfer,Education purchase
+2026-02-13,Food,331.46,UPI,Food purchase
+2026-02-13,Transport,461.7,Cash,Transport purchase
+2026-02-14,Shopping,1327.72,Bank Transfer,Shopping purchase
+2026-02-15,Healthcare,839.78,Bank Transfer,Healthcare purchase
+2026-02-15,Food,192.55,Cash,Food purchase
+2026-02-16,Food,189.95,Card,Food purchase
+2026-02-16,Shopping,2448.92,Cash,Shopping purchase
+2026-02-16,Shopping,3228.23,UPI,Shopping purchase
+2026-02-17,Rent,21784.74,Cash,Rent purchase
+2026-02-18,Shopping,1221.81,UPI,Shopping purchase
+2026-02-18,Shopping,2148.68,Card,Shopping purchase
+2026-02-18,Shopping,1445.38,Bank Transfer,Shopping purchase
+2026-02-18,Rent,18471.16,Card,Rent purchase
+2026-02-19,Shopping,909.76,Card,Shopping purchase
+2026-02-20,Food,487.39,UPI,Food purchase
+2026-02-21,Food,129.92,Card,Food purchase
+2026-02-22,Transport,385.19,Cash,Transport purchase
+2026-02-23,Healthcare,751.76,Bank Transfer,Healthcare purchase
+2026-02-25,Entertainment,751.76,Bank Transfer,Entertainment purchase
+2026-02-26,Healthcare,803.44,Card,Healthcare purchase
+2026-02-28,Rent,6529.87,Card,Rent purchase
+2026-02-28,Utilities,886.32,Cash,Utilities purchase
+2026-03-01,Transport,206.18,Card,Transport purchase
+2026-03-01,Shopping,1374.69,Card,Shopping purchase
+2026-03-01,Transport,504.2,Cash,Transport purchase
+2026-03-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-03-02,Entertainment,853.06,UPI,Entertainment purchase
+2026-03-02,Rent,24887.03,Cash,Rent purchase
+2026-03-02,Shopping,887.42,Card,Shopping purchase
+2026-03-02,Entertainment,481.94,Bank Transfer,Entertainment purchase
+2026-03-02,Rent,8428.54,Bank Transfer,Rent purchase
+2026-03-03,Rent,14273.15,Card,Rent purchase
+2026-03-03,Rent,11086.01,Card,Rent purchase
+2026-03-03,Shopping,1687.25,Cash,Shopping purchase
+2026-03-04,Utilities,1016.75,Card,Utilities purchase
+2026-03-04,Food,214.77,Card,Food purchase
+2026-03-04,Food,313.44,Bank Transfer,Food purchase
+2026-03-05,Healthcare,845.55,Card,Healthcare purchase
+2026-03-06,Utilities,1647.95,UPI,Utilities purchase
+2026-03-07,Food,491.87,Card,Food purchase
+2026-03-07,Shopping,1222.43,Card,Shopping purchase
+2026-03-08,Entertainment,480.66,Card,Entertainment purchase
+2026-03-08,Food,372.02,UPI,Food purchase
+2026-03-09,Transport,341.2,Bank Transfer,Transport purchase
+2026-03-12,Entertainment,951.83,Cash,Entertainment purchase
+2026-03-13,Transport,447.21,Card,Transport purchase
+2026-03-15,Transport,602.01,Bank Transfer,Transport purchase
+2026-03-15,Food,181.01,UPI,Food purchase
+2026-03-16,Utilities,399.96,UPI,Utilities purchase
+2026-03-16,Entertainment,509.59,Card,Entertainment purchase
+2026-03-17,Food,150.21,Bank Transfer,Food purchase
+2026-03-17,Shopping,3482.11,UPI,Shopping purchase
+2026-03-18,Food,116.38,UPI,Food purchase
+2026-03-18,Food,652.68,Cash,Food purchase
+2026-03-19,Rent,23486.41,Cash,Rent purchase
+2026-03-20,Food,183.6,Bank Transfer,Food purchase
+2026-03-20,Education,3563.67,Cash,Education purchase
+2026-03-20,Shopping,404.06,Cash,Shopping purchase
+2026-03-20,Food,471.87,Card,Food purchase
+2026-03-20,Rent,34898.82,Card,Rent purchase
+2026-03-21,Transport,448.1,Cash,Transport purchase
+2026-03-21,Entertainment,784.94,UPI,Entertainment purchase
+2026-03-21,Food,345.09,Card,Food purchase
+2026-03-23,Shopping,1586.97,UPI,Shopping purchase
+2026-03-23,Entertainment,481.29,Cash,Entertainment purchase
+2026-03-25,Education,583.92,Card,Education purchase
+2026-03-26,Food,476.42,UPI,Food purchase
+2026-03-26,Healthcare,1148.57,UPI,Healthcare purchase
+2026-03-26,Food,837.15,Bank Transfer,Food purchase
+2026-03-26,Education,669.18,UPI,Education purchase
+2026-03-26,Entertainment,993.61,Cash,Entertainment purchase
+2026-03-26,Food,306.65,Card,Food purchase
+2026-03-26,Shopping,2711.81,Bank Transfer,Shopping purchase
+2026-03-26,Food,282.33,Bank Transfer,Food purchase
+2026-03-27,Food,165.55,Cash,Food purchase
+2026-03-27,Utilities,567.72,Cash,Utilities purchase
+2026-03-27,Transport,538.24,Cash,Transport purchase
+2026-03-27,Rent,9085.02,UPI,Rent purchase
+2026-03-28,Shopping,1628.85,Cash,Shopping purchase
+2026-03-28,Transport,583.95,Bank Transfer,Transport purchase
+2026-03-28,Food,225.91,Card,Food purchase
+2026-03-28,Education,768.29,Bank Transfer,Education purchase
+2026-03-29,Shopping,2550.15,Card,Shopping purchase
+2026-03-30,Shopping,2876.09,UPI,Shopping purchase
+2026-03-30,Entertainment,339.53,Card,Entertainment purchase
+2026-03-31,Shopping,860.62,Bank Transfer,Shopping purchase
+2026-03-31,Utilities,1947.82,UPI,Utilities purchase
+2026-03-31,Entertainment,1234.84,UPI,Entertainment purchase
+2026-03-31,Food,169.78,UPI,Food purchase
+2026-04-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-04-01,Shopping,1125.81,Bank Transfer,Shopping purchase
+2026-04-01,Shopping,997.13,Bank Transfer,Shopping purchase
+2026-04-01,Education,916.5,Card,Education purchase
+2026-04-03,Food,306.57,Cash,Food purchase
+2026-04-03,Shopping,2001.24,Cash,Shopping purchase
+2026-04-03,Entertainment,634.77,Card,Entertainment purchase
+2026-04-04,Food,1175.54,Bank Transfer,Food purchase
+2026-04-04,Utilities,461.91,Cash,Utilities purchase
+2026-04-05,Food,161.3,Bank Transfer,Food purchase
+2026-04-05,Transport,663.59,Bank Transfer,Transport purchase
+2026-04-06,Education,852.48,Bank Transfer,Education purchase
+2026-04-06,Healthcare,750.05,Bank Transfer,Healthcare purchase
+2026-04-06,Shopping,1354.17,Card,Shopping purchase
+2026-04-06,Rent,9652.57,Cash,Rent purchase
+2026-04-06,Shopping,1869.24,Card,Shopping purchase
+2026-04-07,Entertainment,572.51,Cash,Entertainment purchase
+2026-04-07,Food,155.96,UPI,Food purchase
+2026-04-07,Food,381.34,Bank Transfer,Food purchase
+2026-04-08,Utilities,1208.08,Bank Transfer,Utilities purchase
+2026-04-08,Shopping,1523.26,UPI,Shopping purchase
+2026-04-08,Transport,342.9,UPI,Transport purchase
+2026-04-09,Transport,441.75,Cash,Transport purchase
+2026-04-09,Transport,1009.66,UPI,Transport purchase
+2026-04-10,Transport,881.67,Bank Transfer,Transport purchase
+2026-04-11,Shopping,2163.71,Bank Transfer,Shopping purchase
+2026-04-11,Entertainment,1067.4,UPI,Entertainment purchase
+2026-04-11,Shopping,1845.61,Card,Shopping purchase
+2026-04-11,Transport,582.12,Cash,Transport purchase
+2026-04-12,Food,535.15,Cash,Food purchase
+2026-04-13,Entertainment,774.49,Card,Entertainment purchase
+2026-04-13,Shopping,2046.93,UPI,Shopping purchase
+2026-04-15,Shopping,2621.69,Bank Transfer,Shopping purchase
+2026-04-15,Utilities,730.72,UPI,Utilities purchase
+2026-04-15,Transport,886.48,Cash,Transport purchase
+2026-04-16,Food,445.17,Card,Food purchase
+2026-04-16,Shopping,2580.13,Cash,Shopping purchase
+2026-04-17,Rent,15643.77,Bank Transfer,Rent purchase
+2026-04-17,Entertainment,732.37,Cash,Entertainment purchase
+2026-04-17,Education,2181.97,Bank Transfer,Education purchase
+2026-04-17,Transport,359.85,Card,Transport purchase
+2026-04-18,Transport,563.49,Cash,Transport purchase
+2026-04-18,Entertainment,343.18,UPI,Entertainment purchase
+2026-04-19,Utilities,357.02,Cash,Utilities purchase
+2026-04-19,Utilities,997.9,UPI,Utilities purchase
+2026-04-19,Food,204.75,Card,Food purchase
+2026-04-19,Transport,603.94,UPI,Transport purchase
+2026-04-20,Shopping,2236.6,Cash,Shopping purchase
+2026-04-20,Utilities,1335.37,UPI,Utilities purchase
+2026-04-20,Transport,931.79,Card,Transport purchase
+2026-04-21,Healthcare,744.71,Bank Transfer,Healthcare purchase
+2026-04-21,Food,236.48,Cash,Food purchase
+2026-04-21,Entertainment,686.79,Cash,Entertainment purchase
+2026-04-21,Transport,684.24,UPI,Transport purchase
+2026-04-22,Utilities,1013.04,Card,Utilities purchase
+2026-04-22,Education,1006.92,Card,Education purchase
+2026-04-23,Shopping,552.77,Card,Shopping purchase
+2026-04-24,Transport,491.57,UPI,Transport purchase
+2026-04-25,Food,650.32,Card,Food purchase
+2026-04-25,Entertainment,540.74,Bank Transfer,Entertainment purchase
+2026-04-25,Rent,6956.18,UPI,Rent purchase
+2026-04-26,Food,181.49,Card,Food purchase
+2026-04-26,Food,235.19,UPI,Food purchase
+2026-04-27,Transport,643.61,Cash,Transport purchase
+2026-04-27,Rent,18231.57,UPI,Rent purchase
+2026-04-27,Transport,594.07,Cash,Transport purchase
+2026-04-28,Food,364.95,Bank Transfer,Food purchase
+2026-04-28,Transport,169.21,Card,Transport purchase
+2026-04-28,Food,107.34,Cash,Food purchase
+2026-04-29,Transport,453.15,Cash,Transport purchase
+2026-05-01,Transport,460.17,Bank Transfer,Transport purchase
+2026-05-01,Transport,222.1,Card,Transport purchase
+2026-05-01,Utilities,1557.75,Card,Utilities purchase
+2026-05-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-05-01,Transport,732.67,Bank Transfer,Transport purchase
+2026-05-02,Rent,14656.27,Card,Rent purchase
+2026-05-02,Food,464.78,UPI,Food purchase
+2026-05-03,Rent,14768.63,Bank Transfer,Rent purchase
+2026-05-03,Utilities,603.97,Bank Transfer,Utilities purchase
+2026-05-04,Shopping,1707.21,Cash,Shopping purchase
+2026-05-05,Food,385.98,Bank Transfer,Food purchase
+2026-05-05,Entertainment,384.66,Bank Transfer,Entertainment purchase
+2026-05-06,Food,283.19,UPI,Food purchase
+2026-05-06,Shopping,2190.74,Card,Shopping purchase
+2026-05-07,Food,139.27,Card,Food purchase
+2026-05-07,Education,2503.21,UPI,Education purchase
+2026-05-07,Utilities,1767.94,Bank Transfer,Utilities purchase
+2026-05-09,Rent,13244.97,Card,Rent purchase
+2026-05-09,Shopping,1902.35,UPI,Shopping purchase
+2026-05-09,Entertainment,529.49,UPI,Entertainment purchase
+2026-05-09,Food,369.84,Card,Food purchase
+2026-05-09,Food,759.88,UPI,Food purchase
+2026-05-10,Entertainment,574.36,Cash,Entertainment purchase
+2026-05-10,Rent,6617.25,UPI,Rent purchase
+2026-05-10,Education,1496.28,UPI,Education purchase
+2026-05-10,Food,259.19,UPI,Food purchase
+2026-05-10,Entertainment,562.52,Bank Transfer,Entertainment purchase
+2026-05-11,Shopping,2198.56,Card,Shopping purchase
+2026-05-13,Rent,9085.91,UPI,Rent purchase
+2026-05-13,Food,253.88,UPI,Food purchase
+2026-05-13,Entertainment,683.54,Card,Entertainment purchase
+2026-05-13,Food,292.67,UPI,Food purchase
+2026-05-14,Shopping,1619.42,Card,Shopping purchase
+2026-05-15,Healthcare,425.77,Card,Healthcare purchase
+2026-05-16,Utilities,360.28,Card,Utilities purchase
+2026-05-16,Utilities,994.81,Bank Transfer,Utilities purchase
+2026-05-16,Entertainment,703.7,Card,Entertainment purchase
+2026-05-17,Food,468.86,Card,Food purchase
+2026-05-18,Food,366.38,Card,Food purchase
+2026-05-18,Transport,698.6,Card,Transport purchase
+2026-05-19,Transport,430.79,Bank Transfer,Transport purchase
+2026-05-19,Transport,228.73,Bank Transfer,Transport purchase
+2026-05-19,Shopping,2317.15,Card,Shopping purchase
+2026-05-19,Rent,5483.29,Cash,Rent purchase
+2026-05-20,Entertainment,833.85,UPI,Entertainment purchase
+2026-05-22,Food,399.49,Cash,Food purchase
+2026-05-22,Healthcare,925.15,Card,Healthcare purchase
+2026-05-23,Rent,11056.99,UPI,Rent purchase
+2026-05-23,Food,195.61,UPI,Food purchase
+2026-05-24,Transport,373.96,Bank Transfer,Transport purchase
+2026-05-24,Utilities,1591.29,Card,Utilities purchase
+2026-05-25,Transport,343.36,UPI,Transport purchase
+2026-05-25,Food,199.44,UPI,Food purchase
+2026-05-25,Entertainment,1205.65,Cash,Entertainment purchase
+2026-05-26,Food,441.83,Card,Food purchase
+2026-05-26,Food,566.9,Cash,Food purchase
+2026-05-26,Shopping,1474.35,Bank Transfer,Shopping purchase
+2026-05-27,Utilities,2360.15,Cash,Utilities purchase
+2026-05-27,Education,2509.45,UPI,Education purchase
+2026-05-28,Shopping,2812.99,UPI,Shopping purchase
+2026-05-28,Transport,274.38,Bank Transfer,Transport purchase
+2026-05-29,Food,368.31,UPI,Food purchase
+2026-05-31,Food,245.21,Cash,Food purchase
+2026-05-31,Entertainment,2110.93,Card,Entertainment purchase
+2026-05-31,Shopping,636.33,Card,Shopping purchase
+2026-05-31,Shopping,1450.71,Card,Shopping purchase
+2026-06-01,Shopping,1669.0,Bank Transfer,Shopping purchase
+2026-06-01,Shopping,1248.67,Cash,Shopping purchase
+2026-06-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-06-03,Transport,458.66,UPI,Transport purchase
+2026-06-03,Food,875.15,UPI,Food purchase
+2026-06-05,Entertainment,323.94,Card,Entertainment purchase
+2026-06-05,Transport,406.0,Card,Transport purchase
+2026-06-06,Food,368.01,Cash,Food purchase
+2026-06-06,Utilities,1750.14,Card,Utilities purchase
+2026-06-06,Transport,253.53,UPI,Transport purchase
+2026-06-07,Entertainment,433.6,Cash,Entertainment purchase
+2026-06-07,Healthcare,896.59,Bank Transfer,Healthcare purchase
+2026-06-08,Entertainment,564.78,UPI,Entertainment purchase
+2026-06-08,Transport,565.79,Cash,Transport purchase
+2026-06-08,Shopping,813.2,Cash,Shopping purchase
+2026-06-08,Food,454.25,Bank Transfer,Food purchase
+2026-06-08,Transport,410.63,Cash,Transport purchase
+2026-06-08,Food,288.25,UPI,Food purchase
+2026-06-09,Utilities,623.09,Card,Utilities purchase
+2026-06-10,Rent,21490.87,Bank Transfer,Rent purchase
+2026-06-11,Transport,227.87,Bank Transfer,Transport purchase
+2026-06-11,Utilities,1177.26,Cash,Utilities purchase
+2026-06-11,Healthcare,450.45,UPI,Healthcare purchase
+2026-06-13,Rent,15243.34,Card,Rent purchase
+2026-06-14,Education,2019.58,UPI,Education purchase
+2026-06-14,Food,430.73,UPI,Food purchase
+2026-06-14,Shopping,2863.91,UPI,Shopping purchase
+2026-06-15,Shopping,1648.1,Bank Transfer,Shopping purchase
+2026-06-15,Food,464.09,Card,Food purchase
+2026-06-16,Entertainment,1144.41,UPI,Entertainment purchase
+2026-06-17,Utilities,827.43,Card,Utilities purchase
+2026-06-17,Shopping,1880.38,Cash,Shopping purchase
+2026-06-18,Utilities,1298.56,Bank Transfer,Utilities purchase
+2026-06-18,Food,406.55,Card,Food purchase
+2026-06-18,Food,313.53,Card,Food purchase
+2026-06-18,Healthcare,434.99,UPI,Healthcare purchase
+2026-06-18,Rent,20794.18,Bank Transfer,Rent purchase
+2026-06-19,Transport,419.94,Card,Transport purchase
+2026-06-19,Food,480.18,Bank Transfer,Food purchase
+2026-06-19,Shopping,989.44,UPI,Shopping purchase
+2026-06-20,Entertainment,517.71,Card,Entertainment purchase
+2026-06-21,Utilities,1882.63,Bank Transfer,Utilities purchase
+2026-06-21,Education,3498.63,Cash,Education purchase
+2026-06-21,Utilities,780.99,Bank Transfer,Utilities purchase
+2026-06-21,Utilities,1231.69,UPI,Utilities purchase
+2026-06-22,Transport,517.22,UPI,Transport purchase
+2026-06-24,Food,231.78,Card,Food purchase
+2026-06-24,Healthcare,612.96,Bank Transfer,Healthcare purchase
+2026-06-24,Food,386.9,Bank Transfer,Food purchase
+2026-06-24,Food,170.61,Bank Transfer,Food purchase
+2026-06-25,Food,186.68,UPI,Food purchase
+2026-06-25,Shopping,2293.46,Bank Transfer,Shopping purchase
+2026-06-25,Food,577.07,Bank Transfer,Food purchase
+2026-06-26,Utilities,1227.67,Cash,Utilities purchase
+2026-06-26,Transport,1733.4,Cash,Transport purchase
+2026-06-27,Shopping,1263.6,Cash,Shopping purchase
+2026-06-27,Utilities,3288.71,UPI,Utilities purchase
+2026-06-28,Utilities,1818.52,UPI,Utilities purchase
+2026-06-30,Food,236.68,Cash,Food purchase
+2026-06-30,Healthcare,1078.04,Bank Transfer,Healthcare purchase
+2026-06-30,Shopping,1293.51,Cash,Shopping purchase
+2026-07-01,Shopping,421.71,Card,Shopping purchase
+2026-07-01,Transport,147.8,Cash,Transport purchase
+2026-07-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-07-02,Transport,849.99,Card,Transport purchase
+2026-07-02,Shopping,2194.14,Bank Transfer,Shopping purchase
+2026-07-02,Shopping,1109.88,Bank Transfer,Shopping purchase
+2026-07-03,Education,1001.74,Cash,Education purchase
+2026-07-04,Utilities,852.52,Card,Utilities purchase
+2026-07-05,Transport,403.46,UPI,Transport purchase
+2026-07-07,Transport,259.5,UPI,Transport purchase
+2026-07-08,Healthcare,2727.44,Card,Healthcare purchase
+2026-07-08,Education,1957.1,Cash,Education purchase
+2026-07-08,Healthcare,510.81,Bank Transfer,Healthcare purchase
+2026-07-08,Food,343.45,UPI,Food purchase
+2026-07-09,Rent,22190.42,Bank Transfer,Rent purchase
+2026-07-09,Education,430.71,Card,Education purchase
+2026-07-09,Food,438.35,UPI,Food purchase
+2026-07-10,Healthcare,1288.31,Cash,Healthcare purchase
+2026-07-10,Transport,369.55,UPI,Transport purchase
+2026-07-10,Entertainment,759.58,Bank Transfer,Entertainment purchase
+2026-07-10,Food,383.66,UPI,Food purchase
+2026-07-10,Shopping,2891.56,UPI,Shopping purchase
+2026-07-11,Education,1903.08,Cash,Education purchase
+2026-07-12,Healthcare,1149.57,UPI,Healthcare purchase
+2026-07-12,Shopping,1838.87,Card,Shopping purchase
+2026-07-12,Healthcare,914.24,UPI,Healthcare purchase
+2026-07-13,Utilities,1671.7,UPI,Utilities purchase
+2026-07-13,Entertainment,248.69,Cash,Entertainment purchase
+2026-07-13,Healthcare,769.8,Card,Healthcare purchase
+2026-07-14,Food,273.69,Card,Food purchase
+2026-07-15,Healthcare,1471.68,Bank Transfer,Healthcare purchase
+2026-07-15,Food,330.6,Bank Transfer,Food purchase
+2026-07-15,Healthcare,1129.44,Cash,Healthcare purchase
+2026-07-15,Education,1862.59,Cash,Education purchase
+2026-07-15,Entertainment,422.49,Cash,Entertainment purchase
+2026-07-15,Shopping,1237.75,Bank Transfer,Shopping purchase
+2026-07-16,Healthcare,774.69,Card,Healthcare purchase
+2026-07-16,Shopping,1179.74,Card,Shopping purchase
+2026-07-16,Healthcare,466.66,Bank Transfer,Healthcare purchase
+2026-07-16,Shopping,1190.33,UPI,Shopping purchase
+2026-07-18,Food,282.91,Cash,Food purchase
+2026-07-18,Entertainment,1793.84,UPI,Entertainment purchase
+2026-07-19,Transport,367.05,Bank Transfer,Transport purchase
+2026-07-19,Transport,461.7,Bank Transfer,Transport purchase
+2026-07-19,Food,416.31,Bank Transfer,Food purchase
+2026-07-19,Entertainment,418.49,Bank Transfer,Entertainment purchase
+2026-07-20,Entertainment,816.55,Bank Transfer,Entertainment purchase
+2026-07-21,Education,389.48,UPI,Education purchase
+2026-07-23,Utilities,2081.43,Cash,Utilities purchase
+2026-07-23,Healthcare,417.5,UPI,Healthcare purchase
+2026-07-23,Shopping,2882.04,Cash,Shopping purchase
+2026-07-24,Food,266.1,UPI,Food purchase
+2026-07-24,Entertainment,696.43,Cash,Entertainment purchase
+2026-07-25,Utilities,457.34,Card,Utilities purchase
+2026-07-25,Entertainment,409.24,Card,Entertainment purchase
+2026-07-25,Healthcare,943.08,UPI,Healthcare purchase
+2026-07-25,Shopping,1090.92,Bank Transfer,Shopping purchase
+2026-07-26,Education,845.85,UPI,Education purchase
+2026-07-26,Shopping,2306.41,Card,Shopping purchase
+2026-07-26,Food,144.36,Cash,Food purchase
+2026-07-27,Rent,8172.46,UPI,Rent purchase
+2026-07-27,Shopping,1948.92,Card,Shopping purchase
+2026-07-27,Utilities,909.91,UPI,Utilities purchase
+2026-07-28,Entertainment,433.89,Cash,Entertainment purchase
+2026-07-28,Utilities,1288.98,Bank Transfer,Utilities purchase
+2026-07-29,Food,593.94,Cash,Food purchase
+2026-07-29,Food,443.2,Bank Transfer,Food purchase
+2026-07-30,Shopping,2167.94,UPI,Shopping purchase
+2026-07-30,Rent,8833.33,UPI,Rent purchase
+2026-07-31,Food,190.94,UPI,Food purchase
+2026-07-31,Rent,25842.18,Card,Rent purchase
+2026-07-31,Entertainment,723.22,Card,Entertainment purchase
+2026-07-31,Healthcare,1396.07,Card,Healthcare purchase
+2026-07-31,Shopping,1242.57,UPI,Shopping purchase
+2026-07-31,Food,315.3,Bank Transfer,Food purchase
+2026-08-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-08-01,Food,242.59,UPI,Food purchase
+2026-08-01,Transport,613.17,Card,Transport purchase
+2026-08-01,Education,3499.4,Card,Education purchase
+2026-08-01,Rent,5038.17,Cash,Rent purchase
+2026-08-01,Food,98.68,Bank Transfer,Food purchase
+2026-08-02,Education,1449.39,Bank Transfer,Education purchase
+2026-08-02,Entertainment,1147.77,Cash,Entertainment purchase
+2026-08-02,Entertainment,582.22,UPI,Entertainment purchase
+2026-08-03,Healthcare,772.8,Card,Healthcare purchase
+2026-08-03,Entertainment,818.9,UPI,Entertainment purchase
+2026-08-03,Utilities,2316.86,Card,Utilities purchase
+2026-08-05,Rent,5702.32,Card,Rent purchase
+2026-08-05,Food,437.22,Bank Transfer,Food purchase
+2026-08-05,Entertainment,360.59,Bank Transfer,Entertainment purchase
+2026-08-05,Shopping,859.19,UPI,Shopping purchase
+2026-08-06,Utilities,804.96,Card,Utilities purchase
+2026-08-06,Rent,5966.16,UPI,Rent purchase
+2026-08-06,Healthcare,1210.91,Cash,Healthcare purchase
+2026-08-06,Entertainment,967.29,Card,Entertainment purchase
+2026-08-06,Education,2378.52,UPI,Education purchase
+2026-08-07,Healthcare,1236.27,UPI,Healthcare purchase
+2026-08-08,Education,2061.54,Card,Education purchase
+2026-08-08,Transport,397.05,Bank Transfer,Transport purchase
+2026-08-08,Entertainment,712.72,Bank Transfer,Entertainment purchase
+2026-08-08,Transport,331.06,Bank Transfer,Transport purchase
+2026-08-09,Shopping,1620.55,UPI,Shopping purchase
+2026-08-09,Shopping,3070.69,Cash,Shopping purchase
+2026-08-09,Shopping,745.16,UPI,Shopping purchase
+2026-08-09,Utilities,1176.42,Cash,Utilities purchase
+2026-08-09,Food,411.5,UPI,Food purchase
+2026-08-10,Food,349.1,UPI,Food purchase
+2026-08-10,Food,136.98,Card,Food purchase
+2026-08-10,Healthcare,750.73,UPI,Healthcare purchase
+2026-08-12,Food,201.33,Bank Transfer,Food purchase
+2026-08-13,Utilities,1928.4,UPI,Utilities purchase
+2026-08-14,Education,719.91,Card,Education purchase
+2026-08-15,Food,121.7,Bank Transfer,Food purchase
+2026-08-16,Healthcare,755.99,Cash,Healthcare purchase
+2026-08-16,Education,515.62,Card,Education purchase
+2026-08-17,Transport,257.44,Cash,Transport purchase
+2026-08-17,Entertainment,672.52,UPI,Entertainment purchase
+2026-08-17,Entertainment,280.11,Bank Transfer,Entertainment purchase
+2026-08-17,Entertainment,472.29,Cash,Entertainment purchase
+2026-08-18,Food,413.12,Cash,Food purchase
+2026-08-18,Food,247.13,Card,Food purchase
+2026-08-18,Education,624.63,Card,Education purchase
+2026-08-19,Food,108.68,Bank Transfer,Food purchase
+2026-08-19,Healthcare,635.18,Cash,Healthcare purchase
+2026-08-19,Food,85.5,Bank Transfer,Food purchase
+2026-08-19,Rent,20382.68,Cash,Rent purchase
+2026-08-19,Shopping,1871.93,UPI,Shopping purchase
+2026-08-20,Food,340.05,Card,Food purchase
+2026-08-20,Food,441.65,Card,Food purchase
+2026-08-21,Utilities,800.29,Card,Utilities purchase
+2026-08-22,Food,364.74,Cash,Food purchase
+2026-08-22,Food,302.21,Bank Transfer,Food purchase
+2026-08-22,Food,294.38,Card,Food purchase
+2026-08-23,Food,805.4,Cash,Food purchase
+2026-08-23,Shopping,2270.02,Card,Shopping purchase
+2026-08-24,Entertainment,803.86,Cash,Entertainment purchase
+2026-08-24,Food,255.39,Bank Transfer,Food purchase
+2026-08-24,Transport,379.75,Cash,Transport purchase
+2026-08-24,Shopping,1475.58,Bank Transfer,Shopping purchase
+2026-08-25,Food,199.59,Cash,Food purchase
+2026-08-26,Transport,348.61,Card,Transport purchase
+2026-08-26,Rent,12292.78,Cash,Rent purchase
+2026-08-26,Food,78.89,UPI,Food purchase
+2026-08-27,Utilities,576.28,Card,Utilities purchase
+2026-08-27,Transport,1037.2,Bank Transfer,Transport purchase
+2026-08-27,Food,288.2,Cash,Food purchase
+2026-08-28,Transport,239.75,UPI,Transport purchase
+2026-08-28,Education,1235.34,Cash,Education purchase
+2026-08-28,Utilities,1318.17,Card,Utilities purchase
+2026-08-29,Food,184.33,Cash,Food purchase
+2026-08-29,Rent,14025.53,Card,Rent purchase
+2026-08-30,Food,395.72,Cash,Food purchase
+2026-08-31,Entertainment,579.93,Card,Entertainment purchase
+2026-09-01,Food,510.69,Bank Transfer,Food purchase
+2026-09-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-09-01,Shopping,2754.92,Card,Shopping purchase
+2026-09-04,Transport,605.19,UPI,Transport purchase
+2026-09-04,Entertainment,329.07,Card,Entertainment purchase
+2026-09-06,Utilities,862.55,Cash,Utilities purchase
+2026-09-08,Entertainment,1826.01,Card,Entertainment purchase
+2026-09-08,Shopping,1313.06,Cash,Shopping purchase
+2026-09-09,Education,521.12,Bank Transfer,Education purchase
+2026-09-10,Utilities,1657.91,Bank Transfer,Utilities purchase
+2026-09-10,Rent,13848.38,Bank Transfer,Rent purchase
+2026-09-10,Transport,264.89,Bank Transfer,Transport purchase
+2026-09-10,Healthcare,804.33,Cash,Healthcare purchase
+2026-09-11,Utilities,633.35,Bank Transfer,Utilities purchase
+2026-09-11,Utilities,1496.29,Card,Utilities purchase
+2026-09-11,Transport,108.91,Cash,Transport purchase
+2026-09-12,Food,418.59,Cash,Food purchase
+2026-09-12,Education,676.4,Cash,Education purchase
+2026-09-13,Transport,325.44,Cash,Transport purchase
+2026-09-14,Entertainment,733.58,Bank Transfer,Entertainment purchase
+2026-09-14,Rent,16582.01,Card,Rent purchase
+2026-09-15,Education,636.04,Bank Transfer,Education purchase
+2026-09-15,Food,265.28,Card,Food purchase
+2026-09-16,Rent,34179.12,UPI,Rent purchase
+2026-09-18,Transport,428.36,Card,Transport purchase
+2026-09-19,Entertainment,370.34,UPI,Entertainment purchase
+2026-09-19,Entertainment,731.16,Card,Entertainment purchase
+2026-09-19,Shopping,1845.08,Cash,Shopping purchase
+2026-09-20,Utilities,950.45,UPI,Utilities purchase
+2026-09-20,Food,266.06,Card,Food purchase
+2026-09-21,Entertainment,633.17,Card,Entertainment purchase
+2026-09-21,Food,1006.32,Cash,Food purchase
+2026-09-21,Utilities,2607.75,UPI,Utilities purchase
+2026-09-21,Food,809.6,Cash,Food purchase
+2026-09-22,Education,907.97,Card,Education purchase
+2026-09-22,Shopping,841.63,Bank Transfer,Shopping purchase
+2026-09-22,Healthcare,413.38,Cash,Healthcare purchase
+2026-09-22,Food,293.16,Card,Food purchase
+2026-09-23,Food,343.22,Card,Food purchase
+2026-09-23,Food,287.94,Bank Transfer,Food purchase
+2026-09-23,Food,165.32,Cash,Food purchase
+2026-09-23,Entertainment,1419.55,Card,Entertainment purchase
+2026-09-24,Entertainment,1058.0,UPI,Entertainment purchase
+2026-09-24,Rent,10043.54,Bank Transfer,Rent purchase
+2026-09-25,Shopping,1792.73,Bank Transfer,Shopping purchase
+2026-09-25,Rent,15354.67,Card,Rent purchase
+2026-09-25,Utilities,555.92,UPI,Utilities purchase
+2026-09-26,Utilities,1216.83,UPI,Utilities purchase
+2026-09-26,Transport,589.71,Bank Transfer,Transport purchase
+2026-09-26,Food,397.73,UPI,Food purchase
+2026-09-26,Entertainment,770.4,Cash,Entertainment purchase
+2026-09-26,Rent,13952.26,UPI,Rent purchase
+2026-09-27,Transport,590.32,Bank Transfer,Transport purchase
+2026-09-27,Rent,14189.58,UPI,Rent purchase
+2026-09-27,Rent,13310.45,Bank Transfer,Rent purchase
+2026-09-28,Rent,3920.57,Cash,Rent purchase
+2026-09-30,Entertainment,1479.28,Card,Entertainment purchase
+2026-09-30,Shopping,1135.26,Card,Shopping purchase
+2026-10-01,Utilities,1232.43,Cash,Utilities purchase
+2026-10-01,Rent,31752.81,Bank Transfer,Rent purchase
+2026-10-01,Food,151.99,Card,Food purchase
+2026-10-01,Rent,14000.0,Bank Transfer,Monthly rent
+2026-10-02,Utilities,371.69,UPI,Utilities purchase
+2026-10-02,Education,1254.39,Cash,Education purchase
+2026-10-02,Entertainment,862.73,Bank Transfer,Entertainment purchase
+2026-10-03,Education,1115.02,Bank Transfer,Education purchase
+2026-10-03,Food,475.35,UPI,Food purchase
+2026-10-04,Education,1877.59,Bank Transfer,Education purchase
+2026-10-04,Food,437.54,Card,Food purchase
+2026-10-05,Rent,19258.4,Bank Transfer,Rent purchase
+2026-10-05,Rent,4347.48,Cash,Rent purchase
+2026-10-05,Food,302.18,Bank Transfer,Food purchase
+2026-10-05,Entertainment,659.61,UPI,Entertainment purchase
+2026-10-05,Transport,171.65,Cash,Transport purchase
+2026-10-05,Education,1101.38,Bank Transfer,Education purchase
+2026-10-06,Food,364.3,UPI,Food purchase
+2026-10-06,Transport,192.86,Cash,Transport purchase
+2026-10-06,Transport,474.28,Card,Transport purchase
+2026-10-07,Utilities,658.93,Cash,Utilities purchase
+2026-10-07,Education,1530.33,UPI,Education purchase
+2026-10-08,Food,205.12,UPI,Food purchase
+2026-10-08,Utilities,1287.79,Bank Transfer,Utilities purchase
+2026-10-08,Shopping,1964.71,Cash,Shopping purchase
+2026-10-08,Shopping,754.13,Bank Transfer,Shopping purchase
+2026-10-09,Food,142.36,Card,Food purchase
+2026-10-09,Food,391.0,Card,Food purchase
+2026-10-10,Healthcare,2120.37,Bank Transfer,Healthcare purchase
+2026-10-10,Shopping,796.34,Cash,Shopping purchase
+2026-10-11,Entertainment,974.9,Cash,Entertainment purchase
+2026-10-12,Utilities,853.22,Cash,Utilities purchase
+2026-10-13,Shopping,1186.11,UPI,Shopping purchase
+2026-10-14,Rent,13081.35,Card,Rent purchase
+2026-10-15,Shopping,916.46,Cash,Shopping purchase
+2026-10-16,Food,397.15,Cash,Food purchase
+2026-10-16,Entertainment,922.74,UPI,Entertainment purchase
+2026-10-17,Utilities,1198.54,Card,Utilities purchase
+2026-10-17,Food,381.04,Cash,Food purchase
+2026-10-18,Utilities,1244.8,UPI,Utilities purchase
+2026-10-18,Utilities,537.46,Bank Transfer,Utilities purchase
+2026-10-18,Transport,295.01,Bank Transfer,Transport purchase
+2026-10-19,Food,839.26,Bank Transfer,Food purchase
